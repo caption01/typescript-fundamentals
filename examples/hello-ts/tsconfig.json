@@ -1,0 +1,10 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2017",
+    "outDir": "lib",
+    "declaration": true, // type decoration
+    "sourceMap": true // type decoration
+  }
+}
